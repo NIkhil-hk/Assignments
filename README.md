@@ -1,4 +1,4 @@
-# To run the website visit
+# To run the assignment visit
 
 https://restaverse-reviews.vercel.app/
 
